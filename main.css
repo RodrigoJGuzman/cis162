@@ -1,0 +1,19 @@
+body {background-color: darkviolet;
+    font-family: 'microgramma-bold', sans-serif;
+    text-align: center}
+
+header {background-color: darkgrey;
+    font-family: 'microgramma-bold', sans-serif;
+    text-align: center}
+
+h1 {color: floralwhite;}
+    nav> ul {line-height: 5em;
+    list-style-type: none;
+    padding-left: 5px;
+    text-align: left}
+
+section {background-color: darkviolet;
+    width: 80%;
+    font-size: 2em;}
+
+footer {background-color: darkgrey}
