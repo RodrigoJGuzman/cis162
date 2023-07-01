@@ -1,11 +1,11 @@
 body {background-color:cornsilk;
-    font-family: 'microgramma-bold', sans-serif;
+    font-family: microgramma-bold, sans-serif;
     text-align: left}
 
-header {background-color: darkgrey;
-    font-family: 'microgramma-bold', sans-serif;
+header {background-color: darkslateblue;
+    font-family: microgramma-bold, sans-serif;
     text-align: center;
-    font-size: 5em;}
+    font-size: 3em;}
 
 h1, h2, h3 {color: floralwhite;}
     nav> ul {line-height: 2em;
@@ -13,10 +13,10 @@ h1, h2, h3 {color: floralwhite;}
     padding-left: 5px;
     text-align: left}
 
-section {background-color: darkviolet;
+section {background-color: darkslateblue;
     width: 80%;
-    font-size: 2em;}
+    font-size: 1.5em;}
 
 footer {background-color: darkgrey;
-    font-family: 'microgramma-bold', sans-serif;
+    font-family: microgramma-bold, sans-serif;
     font-size: 2em;}
