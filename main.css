@@ -8,7 +8,7 @@ body {background-color:cornsilk;
 header {background-color: darkslateblue;
     color: floralwhite;
     font-family: oswald, sans-serif;
-    font-style: oblique;
+    font-style: initial;
     font-weight: 700;
     font-size: 48px;
     text-align: center;}
