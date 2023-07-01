@@ -1,13 +1,14 @@
-body {background-color: darkviolet;
+body {background-color:cornsilk;
     font-family: 'microgramma-bold', sans-serif;
-    text-align: center}
+    text-align: left}
 
 header {background-color: darkgrey;
     font-family: 'microgramma-bold', sans-serif;
-    text-align: center}
+    text-align: center;
+    font-size: 5em;}
 
-h1 {color: floralwhite;}
-    nav> ul {line-height: 5em;
+h1, h2, h3 {color: floralwhite;}
+    nav> ul {line-height: 2em;
     list-style-type: none;
     padding-left: 5px;
     text-align: left}
@@ -16,4 +17,6 @@ section {background-color: darkviolet;
     width: 80%;
     font-size: 2em;}
 
-footer {background-color: darkgrey}
+footer {background-color: darkgrey;
+    font-family: 'microgramma-bold', sans-serif;
+    font-size: 2em;}
